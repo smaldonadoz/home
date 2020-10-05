@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/smaldonadoz/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am an assistant professor at the Department of Economics at the Universidad del Rosario in Bogota, Colombia. I hold a Ph.D. in Agricultural and Resource Economics from the University of California at Berkeley. I also hold a Master in Science in Agricultural and Resource Economics from UC Berkeley and a Master in Economics from Universidad de San Andres (Buenos Aires, Argentina). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research
 
-### Markdown
+Motivating Bureaucrats with Non-monetary Incentives when State Capacity is Weak: Evidence from Large-Scale Field Experiments in Peru. With Andrew Dustan (Vanderbilt University) and Juan Manuel Hernandez-Agramonte (Innovations for Poverty Action). December 22nd, 2018. Online Appendix. Submitted.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Value of Redistribution: Natural Resources and the Formation of Human Capital under Weak Institutions. With Jorge Aguero (University of Connecticut), Carlos Felipe Balcazar (New York University) and Hugo Ñopo (GRADE). April 28th, 2018. Online Appendix. Revise and Resubmit at Journal of Development Economics.
 
-```markdown
-Syntax highlighted code block
+Blessing a Curse? Institutional Reforms and Resource Booms in Colombia. April 19, 2018. With Jorge Gallego (Universidad del Rosario) and Lorena Trujillo (DNP). Revise and Resubmit at Journal of Economic Behavior and Organization.
 
-# Header 1
-## Header 2
-### Header 3
+The Non-Monotonic Political Effects of Resource Booms. December 18, 2017. Online Appendix. Submitted.
 
-- Bulleted
-- List
+Natural Resource Windfalls and Efficiency of Local Government Expenditures: Evidence from Peru. With  Martin Ardanaz (Inter-American Development Bank). July 29, 2017. Online Appendix. Revise and Resubmit at Economics and Politics.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smaldonadoz/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Resource Booms and Political Support: Evidence from Peru.  April 29, 2015.
